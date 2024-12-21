@@ -12,3 +12,5 @@ A lab course offered by the ECE department of UIUC and instructed by prof. Ariji
  6) Differential voltage probes
  7) Passive current probes
  8) 100 Ω Load resistance box
+
+Instructor: [Prof. Arijit Banerjee](https://ece.illinois.edu/about/directory/faculty/arijit)
